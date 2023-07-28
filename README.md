@@ -37,7 +37,7 @@ To run the Weather App locally, follow these steps:
 4. Start the app:
 
    ```bash
-   npm start
+   npx nodemon src/app.mjs
    ```
 
 5. Open your web browser and visit [http://localhost:8000](http://localhost:8000) to access the Weather App.
@@ -55,6 +55,8 @@ To check the weather of a city, simply follow these steps:
 4. The app will display the weather information for the specified city, including the temperature and a weather status emoji.
 
 5. If you want to check the weather for a different city, repeat the process with the new city name.
+
+![image](https://github.com/Jha-Shubham19/SKJ_Weather/assets/95894160/cffc4623-218c-4db4-8982-ff2c262f26de)
 
 ## Credits
 
