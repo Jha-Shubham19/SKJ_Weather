@@ -12,20 +12,20 @@ The Weather App is a simple web application that allows users to check the weath
 
 - **Error Handling:** In case the user enters an invalid city name or there is an issue with fetching weather data, the app gracefully handles errors and displays a friendly message.
 
-## Getting Started
+# Getting Started
 
 To run the Weather App locally, follow these steps:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Jha-Shubham19/SKJ_Weather.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd weather-app
+   cd SKJ_Weather
    ```
 
 3. Install the required dependencies:
