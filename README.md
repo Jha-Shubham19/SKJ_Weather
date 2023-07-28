@@ -58,13 +58,9 @@ To check the weather of a city, simply follow these steps:
 
 ## Credits
 
-- [wttr.in](https://wttr.in/): A weather service that provides weather data in various formats, used to fetch real-time weather information for cities.
+- [wttr.in](https://github.com/chubin/wttr.in): A weather service that provides weather data in various formats, used to fetch real-time weather information for cities.
 
 
 ## Contributions
 
 Contributions to the Weather App are welcome! If you find any issues or want to add new features, feel free to submit a pull request.
-
----
-
-Thank you for using the Weather App! If you have any questions or need further assistance, please don't hesitate to contact us at weather.app@example.com. Happy weather checking! 🌤️
