@@ -5,6 +5,9 @@ const display_city_name = document.getElementById("display_city_name");
 const temp = document.getElementById("temp");
 const temp_status = document.getElementById("temp_status");
 const cityInputField = document.getElementById('cityname');
+const homeLink = document.getElementById('home-link');
+
+
 
 function fillDefault() {
     display_city_name.parentElement.classList.remove("data_hide");

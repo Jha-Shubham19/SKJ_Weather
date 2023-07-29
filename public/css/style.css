@@ -25,6 +25,19 @@ body {
     margin: 0;
 }
 
+.hover-div{
+    height: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    background-color: transparent;
+    transition: all 1s ease-in;
+}
+
+.nav-item:hover .hover-div{
+    background-color: #0097e6;
+    
+}
+
 .main_menu {
     background-color: var(--main-bg);
 }
